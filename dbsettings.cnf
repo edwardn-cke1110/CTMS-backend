@@ -1,0 +1,8 @@
+# dbsettings.cnf
+[client]
+database = ctms
+user = edwardn
+password = edN531bigG.
+host = localhost
+port = 3306
+default-character-set = utf8
